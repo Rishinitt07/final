@@ -2,7 +2,7 @@ import React from 'react'
 
 const Shome = () => {
   return (
-    <div></div>
+    <div>homeee</div>
   )
 }
 
